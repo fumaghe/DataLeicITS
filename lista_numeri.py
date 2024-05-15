@@ -10,4 +10,4 @@ for i in range(min, max+1):
 	else: 
 		print(i) 
 
-print(sum([i for i in range(min, max + 1)]))
+print(sum(range(min, max + 1)))
